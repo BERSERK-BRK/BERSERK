@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua
+https://raw.githubusercontent.com/realCAVEIRA/BloxFruits/refs/heads/main/Source.sol
